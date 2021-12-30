@@ -1,4 +1,4 @@
-# Analysis-of-HPS-Public-Use-Microdata-via-Unit-Level-Models-for-Informative-Sampling
+# README
 Rstan files for unit-level modeling for the paper "Analysis of Household Pulse Survey Public-Use Microdata via Unit-Level Models for Informative Sampling" by Alexander Sun, Paul A. Parker, and Scott H. Holan.
 
 Binomial.stan is Non-Spatial Binomial (NSB) model in Equation (2).
